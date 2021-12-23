@@ -1,5 +1,5 @@
 # instagram-crawler
-针对Instagram的网络爬虫。  
+针对Instagram的爬虫工具。  
 ## ins-img-downloader.py
 爬取指定用户主页帖子里的所有图片（不论是单张还是多张），最多测试过4000个帖子的主页可以稳定运行。  
 下载过的图片不会被重复下载，报错可以自动从断点处继续。  
