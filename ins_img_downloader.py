@@ -1,7 +1,7 @@
 # coding=utf-8
 # @Time : 2021/12/23 22:25
 # @Author : Karasukaigan
-# @File : ins-img-downloader.py
+# @File : ins_img_downloader.py
 # @Software : PyCharm
 
 import requests
