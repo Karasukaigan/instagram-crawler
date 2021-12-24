@@ -15,7 +15,7 @@ download_helper(user_name, url, cookie)
 ## get_single_image.py  
 爬取指定帖子里的所有图片（不论是单张还是多张）。  
 下载过的图片不会被重复下载。  
-需要自行抓包，以获取到自己的 ```cookie``` 。
+需要自行抓包，以获取到自己的 ```cookie``` 。  
 例：  
 ```
 folder_name = 'single_img'
